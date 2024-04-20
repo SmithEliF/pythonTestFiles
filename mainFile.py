@@ -1,0 +1,3 @@
+import secondFile
+
+secondFile.test()

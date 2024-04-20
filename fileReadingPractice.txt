@@ -1,0 +1,8 @@
+line one
+line two
+line three
+Hello, this is a test file to practice file reading in python :)
+line five
+line six
+line seven
+This one says Hello in a new spot, to test different loops :3
